@@ -1,6 +1,9 @@
 # Yandex Practicum repository
 Hey there, this is my YA - practicum repository.  
-Here are some my notes from this practicum:  
+Here are some my notes from this practicum: 
+> [!NOTE]
+> This repository will be updated gradually, while I'm mastering my Git.
+
 ## Notes
 💡 Для обозначения систем контроля версий используют не только аббревиатуру VCS(Version control system), но и **SCM** (от англ. ***S**ource **C**ontrol **M**anagement* — «система управления исходным кодом»).
 
